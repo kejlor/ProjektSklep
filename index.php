@@ -319,7 +319,7 @@
 <!-- koniec nowej karuzeli -->
   </div>
   <div class="row">
-  	<div class="col-sm-12" > <nav class="navbar navbar-inverse"><p style="color: white;text-align: center;">MATEUSZ SUMARA 2021 ALL RIGHTS RESERVED</p> </nav></div>
+  	<div class="col-sm-12" > <nav class="navbar navbar-inverse"><p style="color: white;text-align: center;">MATEUSZ, AGATA, BARTEK 2022 ALL RIGHTS RESERVED</p> </nav></div>
   </div>
   </div>
 
